@@ -14,7 +14,7 @@ $ git clone https://github.com/jhonnydelima/finapi
 ### 2.Running the application on your terminal
 ```
 #install the dependencies
-$ yarn install
+$ yarn
 
 #start the server
 $ yarn dev
